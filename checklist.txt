@@ -1,0 +1,6 @@
+Deleting redundant columns
+Renaming the columns
+Dropping duplicates
+Cleaning Individual columns
+Remove the NaN values from the datasets
+Check for some more transformations
