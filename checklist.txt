@@ -4,3 +4,8 @@ Dropping duplicates
 Cleaning Individual columns
 Remove the NaN values from the datasets
 Check for some more transformations
+
+
+15:30 sec
+YT link:
+https://www.youtube.com/watch?v=I7DZP4rVQOU&list=PLTsu3dft3CWhOUPyXdLw8DGy_1l2oK1yy
